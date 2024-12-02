@@ -1,0 +1,14 @@
+input:focus{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 20px;
+    font-size: 15px;
+}
+h1{
+
+}
