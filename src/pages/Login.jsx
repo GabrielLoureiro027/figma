@@ -1,5 +1,6 @@
 import React from "react";
 import './ComponenteLogin.css'
+import CadastrarProduto from "./CadastrarProduto";
 
 const Login = () => {
   return (
@@ -19,8 +20,7 @@ const Login = () => {
         <input type="text" placeholder="Nome" />
         <input type="text" placeholder="Email ou Número de Telefone" />
         <input type="text" placeholder="Senha" />
-        <a className="botao" href=".
-        " style={{
+        <a className="botao" href="./CadastrarProduto" style={{
             margin: '20px',
             padding: '20px 180px',
             borderRadius: '5px',

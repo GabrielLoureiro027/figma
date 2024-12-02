@@ -3,7 +3,7 @@ import React from 'react'
 const CadastrarProduto = () => {
   return (
     <div>
-      <h1>Cadastrar Produto</h1>
+      asd
     </div>
   )
 }
